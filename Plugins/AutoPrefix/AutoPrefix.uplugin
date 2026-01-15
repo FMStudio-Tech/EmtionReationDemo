@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1.1,
+	"VersionName": "1.0.1",
+	"EngineVersion": "5.4.0",
+	"FriendlyName": "Auto Prefix Renamer",
+	"Description": "Adds SK_/SKEL_/PHYS_ prefixes to imported assets.",
+	"Category": "Import",
+	"CreatedBy": "CMSFM",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AutoPrefix",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
